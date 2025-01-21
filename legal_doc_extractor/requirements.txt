@@ -1,0 +1,9 @@
+PyPDF2==3.0.1
+fpdf==1.7.2
+streamlit==1.29.0
+transformers==4.36.2
+spacy==3.7.2
+
+torch==2.1.2
+protobuf==4.25.1
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
